@@ -1,0 +1,49 @@
+header{
+    box-sizing: border-box;
+    position: relative;
+    width: 1310px;
+    height: 90px;
+    background: #10454F;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: dotted;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.Ingridient
+{
+    box-sizing: border-box;
+
+position: relative;
+width: 1310px;
+height: 253px;
+
+background: #506266;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 15px;
+margin: 1px;
+}
+
+.Cooking{
+    box-sizing: border-box;
+    position: relative;
+    width: 1310px;
+    height: 600px;
+    background: #404040;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    text-align: justify;
+
+}
+.Images{
+    box-sizing: border-box;
+position: right;
+width: 611px;
+height: 913px;
+background: #9FC131;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 20px;
+}
